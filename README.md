@@ -41,7 +41,7 @@ src="https://cardivo.vercel.app/api?name=Hammad%20MD&description=A%20PAKISTANI%2
 
 ### <br> `INSTAGRAM`
 <p align="left">
-<a href="https://www.instagram.com/um4rxd"><img height= "35" title="Author" src="https://img.shields.io/badge/Follow-black?style=for-the-badge&logo=instagram"></a>
+<a href="https://www.instagram.com/TanoliHuYar"><img height= "35" title="Author" src="https://img.shields.io/badge/Follow-black?style=for-the-badge&logo=instagram"></a>
 <p/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -52,14 +52,14 @@ src="https://cardivo.vercel.app/api?name=Hammad%20MD&description=A%20PAKISTANI%2
 
 <div align="center">
   
-| [![UMAR REHMAN](https://github.com/Um4r719.png?lenght=50width=50)](https://github.com/Um4r719)|
+| [![UMAR REHMAN](https://github.com/TanoliHuYar.png?lenght=50width=50)](https://github.com/TanoliHuYar)|
 |----|
-| [ UMAR REHMAN ](https://github.com/Um4r719) |
+| [ Hammad Tanoli ](https://github.com/TanoliHuYar) |
 | Co.Owner,Developer, Bug Fixer, Maintainer, Updates |
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <br>
   
-| [![Tanoli Md](https://github.com/Sobxsparl.png?lenght=50width=50)](https://github.com/Sobxsparl) |
+| [![Tanoli Md](https://github.com/TanoliHuYar.png?lenght=50width=50)](https://github.com/TanoliHuYar) |
 |----|
 | [ Hammad Tanoli ](https://github.com/TanoliHuYar) |
 |  Owner |
