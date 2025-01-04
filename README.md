@@ -3,7 +3,7 @@
 <br>
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=SOBIA%20MD&description=A%20PAKISTANI%20BEST%20AND%20FASTEST%20WHATSAPP%20BOT%20BY%20UD%20TEAM&image=https://files.catbox.moe/m1rf91.jpg?v=4&backgroundColor=%23ecf0f1&github=Um4r719&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=Hammad%20MD&description=A%20PAKISTANI%20BEST%20AND%20FASTEST%20WHATSAPP%20BOT%20BY%20UD%20TEAM&image=https://files.catbox.moe/m1rf91.jpg?v=4&backgroundColor=%23ecf0f1&github=Um4r719&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <br>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
