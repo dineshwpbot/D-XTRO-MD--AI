@@ -1,6 +1,6 @@
 {
-  "name": "SILENT-SOBX-MD",
-  "description": "SOBIA MD IS THE MAKE BY USING BAILEY'S",
+  "name": "Tanoli-MD",
+  "description": "Tanoli MD IS THE MAKE BY USING BAILEY'S",
   "logo": "https://files.catbox.moe/m1rf91.jpg",
   "keywords": ["bot"],
   "success_url": "/",
@@ -95,12 +95,12 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "SOBIA MD"
+      "value": "Tanoli MD"
     }, 
      "STATUS_REPLY": {
       "description": "enter your caption if you want to show on status reply.",
       "required": true,
-      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү sσвx-м∂"
+      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү Tanoli-м∂"
     },
     "AUTO_REPLY_STATUS": {
       "description": "you can true or false it.",
@@ -115,7 +115,7 @@
     "CAPTION": {
       "description": "ADD YOUR CAPTION.",
       "required": true,
-      "value": "POWERED BY SOBIA BUTT 🔥"
+      "value": "POWERED BY Hammad Tanoli 🔥"
    } 
 
 },

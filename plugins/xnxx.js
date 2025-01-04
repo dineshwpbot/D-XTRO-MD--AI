@@ -15,7 +15,7 @@ async (conn, mek, m, { from, quoted, body, q, reply }) => {
     const searchTerm = q.trim();
     if (!searchTerm) return reply(`𝖯𝗅𝖾𝖺𝗌𝖾 𝖯𝗋𝗈𝗏𝗂𝖽𝖾 𝖺 𝖲𝖾𝖺𝗋𝖼𝗁 𝖳𝖾𝗋𝗆`);
 
-    reply(`𝖲𝖾𝖺𝗋𝖼𝗁𝗂𝗇𝗀 𝖥𝗈𝗋 𝖸𝗈𝗎𝗋 𝖵𝗂𝖽𝖾𝗈 𝗂𝗇 UMAR-𝖬𝖣 𝖶𝖠 𝖡𝖮𝖳 ➤...`);
+    reply(`𝖲𝖾𝖺𝗋𝖼𝗁𝗂𝗇𝗀 𝖥𝗈𝗋 𝖸𝗈𝗎𝗋 𝖵𝗂𝖽𝖾𝗈 𝗂𝗇 Tanoli-𝖬𝖣 𝖶𝖠 𝖡𝖮𝖳 ➤...`);
     try {
         // Search for the video and download
         const videoInfo = await xnxx.download(searchTerm);
@@ -27,7 +27,7 @@ async (conn, mek, m, { from, quoted, body, q, reply }) => {
         const videoUrl = videoInfo.link_dl;
         await conn.sendMessage(
             from,
-            { video: { url: videoUrl }, caption: '> *Powered By Umar Rehman*', mimetype: 'video/mp4' }, 
+            { video: { url: videoUrl }, caption: '> *Powered By Hammad Tanoli*', mimetype: 'video/mp4' }, 
             { quoted: mek }
         )
 
