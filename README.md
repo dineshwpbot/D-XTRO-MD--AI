@@ -12,7 +12,7 @@ om/TanoliHuYar) |
 <br>
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=TANOLI%20MD&description=A%20PAKISTANI%20BEST%20AND%20FASTEST%20WHATSAPP%20BOT%20BY%20HZ%20TEAM&image=https://files.catbox.moe/m1rf91.jpg?v=4&backgroundColor=%23ecf0f1&github=Um4r719&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=TANOLI%20MD&description=A%20PAKISTANI%20BEST%20AND%20FASTEST%20WHATSAPP%20BOT%20BY%20UD%20TEAM&image=https://files.catbox.moe/m1rf91.jpg?v=4&backgroundColor=%23ecf0f1&github=Um4r719&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <br>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -26,13 +26,13 @@ src="https://cardivo.vercel.app/api?name=TANOLI%20MD&description=A%20PAKISTANI%2
 
 ### <br> TANOLI MD WEBPAGE`
 <p align="left">
-<a href="https://TANOLI-md-pair.onrender.com/"><img height= "35" title="Author" src="https://img.shields.io/badge/WebPage-black?style=for-the-badge&logo=google"></a>
+<a href="https://tanoli-md-pair.onrender.com/"><img height= "35" title="Author" src="https://img.shields.io/badge/WebPage-black?style=for-the-badge&logo=google"></a>
 <p/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### <br> Tanoli MD SESSION`
 <p align="left">
-<a href="https://TANOLI-md-pair.onrender.com/pair"><img height= "35" title="Author" src="https://img.shields.io/badge/Session-black?style=for-the-badge&logo=render"></a>
+<a href="https://tanoli-md-pair.onrender.com/pair"><img height= "35" title="Author" src="https://img.shields.io/badge/Session-black?style=for-the-badge&logo=render"></a>
 <p/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
