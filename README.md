@@ -1,4 +1,4 @@
-om/Sobxsparl) |
+om/TanoliHuYar) |
 |  Owner |
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   </div>
@@ -44,7 +44,7 @@ src="https://cardivo.vercel.app/api?name=TANOLI%20MD&description=A%20PAKISTANI%2
 
 ### <br> `SUPPORT CHANNEL`
 <p align="left">
-<a href="https://www.whatsapp.com/channel/0029VaswGwq5yxeJ6YB3t"><img height= "35" title="Author" src="https://img.shields.io/badge/Join-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://www.whatsapp.com/channel/0029VaswGwq5eJ6YB3t"><img height= "35" title="Author" src="https://img.shields.io/badge/Join-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
