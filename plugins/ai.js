@@ -46,7 +46,7 @@ cmd({
         }
 
         // Image AI à envoyer
-        const ALIVE_IMG = 'https://i.postimg.cc/44vBQhjF/IMG-20250206-224743.jpg'; // Remplacez par l'URL de votre image AI
+        const ALIVE_IMG = 'https://i.postimg.cc/4y4Bxdc8/Picsart-25-02-08-23-56-16-217.jpg'; // Remplacez par l'URL de votre image AI
 
         // Légende avec des informations formatées
         const formattedInfo = `🤖 *ChatGPT Response:*\n\n${gptResponse}`;
