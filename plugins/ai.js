@@ -46,7 +46,7 @@ cmd({
         }
 
         // Image AI à envoyer
-        const ALIVE_IMG = 'https://i.imgur.com/PkuhAkZ.mp4'; // Remplacez par l'URL de votre image AI
+        const ALIVE_IMG = 'https://i.postimg.cc/44vBQhjF/IMG-20250206-224743.jpg'; // Remplacez par l'URL de votre image AI
 
         // Légende avec des informations formatées
         const formattedInfo = `🤖 *ChatGPT Response:*\n\n${gptResponse}`;
@@ -60,7 +60,7 @@ cmd({
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363220399229546@newsletter',
+                    newsletterJid: '120363220399229557@newsletter',
                     newsletterName: 'MR DINESH AI',
                     serverMessageId: 143
                 }
